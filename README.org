@@ -14,7 +14,7 @@ Software. Las tecnologías revisadas y que están dentro de este repositorio son
     - BootsFaces
 - Bootstrap
 
-* Compilando y usando el proyecto
+* Compilando y usando el proyecto ----- al jorge le gusta la del ale
 
 ** Preparando la base de datos
 
